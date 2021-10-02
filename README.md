@@ -187,6 +187,8 @@ namespace Call_From_by_Process_two
 ## 4. 常見問題
 1. 什麼是**Application.StartupPath**?
 **Application.StartupPath** => 這個含是可以用來取得當下執行檔的路徑，而**Path.Combine()** 是用來合併兩個路徑。
+2. 為什麼不用**GetProcessById()**?
+ 當每次執行Procress時，電腦分配的ProcressID都不一樣，但是Name會相同，雇用Name取得執行序比較合適。
 
 ## 5. 參考資料
 ### 開啟程式:
