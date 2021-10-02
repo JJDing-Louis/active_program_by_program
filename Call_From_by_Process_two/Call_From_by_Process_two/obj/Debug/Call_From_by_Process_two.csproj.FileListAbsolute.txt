@@ -1,0 +1,10 @@
+D:\Personal-Work-Space\C# Project\Call_From_by_Process_two\Call_From_by_Process_two\bin\Debug\Call_From_by_Process_two.exe.config
+D:\Personal-Work-Space\C# Project\Call_From_by_Process_two\Call_From_by_Process_two\bin\Debug\Call_From_by_Process_two.exe
+D:\Personal-Work-Space\C# Project\Call_From_by_Process_two\Call_From_by_Process_two\bin\Debug\Call_From_by_Process_two.pdb
+D:\Personal-Work-Space\C# Project\Call_From_by_Process_two\Call_From_by_Process_two\obj\Debug\Call_From_by_Process_two.csproj.AssemblyReference.cache
+D:\Personal-Work-Space\C# Project\Call_From_by_Process_two\Call_From_by_Process_two\obj\Debug\Call_From_by_Process_two.Program_B.resources
+D:\Personal-Work-Space\C# Project\Call_From_by_Process_two\Call_From_by_Process_two\obj\Debug\Call_From_by_Process_two.Properties.Resources.resources
+D:\Personal-Work-Space\C# Project\Call_From_by_Process_two\Call_From_by_Process_two\obj\Debug\Call_From_by_Process_two.csproj.GenerateResource.cache
+D:\Personal-Work-Space\C# Project\Call_From_by_Process_two\Call_From_by_Process_two\obj\Debug\Call_From_by_Process_two.csproj.CoreCompileInputs.cache
+D:\Personal-Work-Space\C# Project\Call_From_by_Process_two\Call_From_by_Process_two\obj\Debug\Call_From_by_Process_two.exe
+D:\Personal-Work-Space\C# Project\Call_From_by_Process_two\Call_From_by_Process_two\obj\Debug\Call_From_by_Process_two.pdb
